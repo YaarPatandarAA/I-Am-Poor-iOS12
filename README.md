@@ -1,9 +1,6 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  I Am Poor
 
-I am poor build off of I am rich app, to understand storyboard and designing your own UI Elements
+I Am Poor build off of I Am Rich app, to understand storyboard and designing your own UI Elements
 
 <img src="Screencap.png"
      alt="screenshot"
